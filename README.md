@@ -1,16 +1,14 @@
-## Hi there 👋
+# 🌸 Olá, mundo! Eu sou [Alexya] 🌸  
 
-<!--
-**alexya09/alexya09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu cantinho no GitHub! 🚀✨
 
-Here are some ideas to get you started:
+## 🌟 Sobre mim  
+👩‍💻 Estudante de Engenharia Computacional na UFJF  
+📚 Sempre aprendendo algo novo  
+☕ Viciada em café e jogos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 O que você encontrará aqui?  
+✨ Projetos pessoais e experimentos de código  
+ 
+## 📫 Como falar comigo?  
+📧 E-mail: [alexya.jesuss@outlook.com](mailto:alexya.jesuss@outlook.com)  
