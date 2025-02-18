@@ -1,4 +1,4 @@
-# 🌸 Olá, mundo! Eu sou [Alexya] 🌸  
+# 🌸 Olá, mundo! Eu sou Alexya 🌸  
 
 Bem-vindo ao meu cantinho no GitHub! 🚀✨
 
